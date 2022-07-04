@@ -19,7 +19,7 @@ MonoBehaviour:
   description: Receives new hat, character and bomb.
   pricesOption: 0
   price:
-    id: GOLD
+    id: GO
     amount: 100
   prices: []
   canBuyOnlyOnce: 1
